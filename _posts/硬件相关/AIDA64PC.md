@@ -1,5 +1,5 @@
 ---
-title: AIDA64 7.0.6700 Engineer/Extreme/Business/Network (安装/便携) 学习版
+title: AIDA64 7.0.6700 便携学习版
 date: 2021-12-14 12:08:42
 categories: [实用资源, Windows, 硬件相关]
 tags: [中文, 实用资源, Windows, AIDA64]
@@ -19,17 +19,9 @@ AIDA64 是一款测试软硬件系统信息的工具，它可以详细的显示�
 
 # 下载
 
-
-{% btn '/download/index.html?f=AIDA64-Business-Network-Audit-6.90.6500.zip','Business/Network' %}
-<br>
-{% btn '/download/index.html?f=AIDA64-Extreme-Engineer-7.00.6700-Final.zip','Extreme/Engineer' %}
-<br>
-{% btn '/download/index.html?f=Aida64-7.0.6700-Portable.zip"','便携版' %}
-<br>
-{% btn '/download/index.html?f=AIDA64-6.92.6600-Business-Portable.zip','Business 便携版' %}
-<br>
-{% btn '/download/index.html?f=AIDA64-6.92.6600-Engineer-Portable.zip','Engineer 便携版' %}
-<br>
-{% btn '/download/index.html?f=AIDA64-6.92.6600-Extreme-Portable.zip','Extreme 便携版' %}
-<br>
-{% btn '/download/index.html?f=AIDA64-6.92.6600-Network-Audit-Portable.zip','Network Audit 便携版' %}
+| 文件                                                                                       | 更新时间   |
+| ------------------------------------------------------------------------------------------ | ---------- |
+| [Business 便携版](/download/index.html?f=AIDA64-6.92.6600-Business-Portable.zip)           | 2023-12-17 |
+| [Engineer 便携版](/download/index.html?f=AIDA64-6.92.6600-Engineer-Portable.zip)           | 2023-12-17 |
+| [Extreme 便携版](/download/index.html?f=AIDA64-6.92.6600-Extreme-Portable.zip)             | 2023-12-17 |
+| [Network Audit 便携版](/download/index.html?f=AIDA64-6.92.6600-Network-Audit-Portable.zip) | 2023-12-17 |
