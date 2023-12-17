@@ -1,9 +1,9 @@
 ---
-title: FolderSync Pro 3.5.2 学习版
+title: FolderSync Pro 3.5.6 学习版
 tags: [中文, 实用资源, Android, FolderSync]
 cover: /img/FolderSync/1.jpg
 date: 2022-10-26 20:48:01
-updated: 2023-10-11 16:00:00
+updated: 2023-12-17 06:00:00
 categories: [实用资源, Android, 上传下载]
 urlname: foldersync
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Android, FolderSync]
@@ -19,4 +19,4 @@ FolderSync 是一款 Android 端的文件同步工具,可以将手机中的文�
 
 # 下载
 
-{% btn '/download/index.html?f=FolderSync-Pro-v3.5.2-2020100124.apk',下载 %}
+{% btn '/download/index.html?f=FolderSync-v3.5.6-youarefinished.apk',下载 %}

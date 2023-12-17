@@ -1,12 +1,12 @@
 ---
-title: PowerISO 8.6 (安装/便携) 学习版
+title: PowerISO 8.7 (安装/便携) 学习版
 date: 2021-11-06 19:34:38
 categories: [实用资源, Windows, 光盘刻录]
 tags: [中文, 实用资源, Windows, PowerISO]
 urlname: poweriso
 cover: /img/PowerISO/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, PowerISO]
-updated: 2023-09-14 15:00:00
+updated: 2023-12-17 06:00:00
 ---
 
 # 简介
@@ -19,6 +19,6 @@ PowerISO 是一款功能强大的光盘映像文件处理软件，它可以打�
 
 # 使用说明
 
-{% btn '/download/index.html?f=PowerISO-8.5.zip','8.5 安装版' %}
+{% btn '/download/index.html?f=PowerISO-8.7.zip','8.7 安装版' %}
 <br>
-{% btn '/download/index.html?f=PowerISO-8.6-Portable.zip','8.6 便携版' %}
+{% btn '/download/index.html?f=Poweriso-8.7-Portable.zip','8.7 便携版' %}

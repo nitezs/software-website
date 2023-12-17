@@ -3,7 +3,7 @@ title: IObit系列软件 Windows学习版
 tags: [实用资源, Windows, IObit]
 cover: /img/IObit/1.jpg
 date: 2023-06-21 01:09:34
-updated: 2023-12-05 04:30:00
+updated: 2023-12-17 06:00:00
 categories: [实用资源, Windows, 系列软件]
 urlname: iobit
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, IObit]
@@ -30,6 +30,6 @@ IObit 成立于 2004 年，总部位于中国深圳。该公司专注于开发�
 | [IObit Uninstaller Pro 13.2.0.3 安装版](/download/index.html?f=IObit-Uninstaller-Pro-13.2.0.3.zip)                        | 2023-11-17 |
 | [IObit Uninstaller Pro 13.2.0.3 便携版](/download/index.html?f=Iobit-Uninstaller-13.2.0.3-Portable.zip)                   | 2023-12-05 |
 | [IObit Advanced SystemCare Ultimate 16.4.0.44 安装版](/download/index.html?f=Advanced-SystemCare-Ultimate-16.4.0.44.zip)  | 2023-10-30 |
-| [IObit Advanced SystemCare Pro 17.0.1.107 安装版](/download/index.html?f=Advanced-SystemCare-Pro-17.0.1.107.zip)          | 2023-10-22 |
+| [IObit Advanced SystemCare Pro 17.1.0.157 安装版](/download/index.html?f=Advanced-SystemCare-Pro-17.1.0.157.zip)          | 2023-12-17 |
 | [IObit Advanced SystemCare Pro 16.5.0.237 便携版](/download/index.html?f=Advanced-SystemCare-Pro-16.5.0.237-Portable.zip) | 2023-07-06 |
 | [IObit Software Updater Pro 6.3.0.15 安装版](/download/index.html?f=IObit-Software-Updater-Pro-6.3.0.15.zip)              | 2023-11-22 |

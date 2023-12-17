@@ -1,5 +1,5 @@
 ---
-title: Yamicsoft Windows 11 Manager 1.3.3 (安装/便携) 学习版
+title: Yamicsoft Windows 11 Manager 1.3.4 (安装/便携) 学习版
 date: 2021-11-21 13:34:38
 categories: [实用资源, Windows, 系统工具]
 tags: [中文, 实用资源, Windows, Windows 11 Manager]
@@ -17,7 +17,7 @@ keywords:
         Windows,
         Windows 11 Manager,
     ]
-updated: 2023-11-11 04:00:00
+updated: 2023-12-17 06:00:00
 ---
 
 # 简介
@@ -30,6 +30,6 @@ Windows 11 Manager 是专门用于微软 Windows 11 的集所有功能于一身�
 
 # 下载
 
-{% btn '/download/index.html?f=Yamicsoft-Windows-11-Manager-1.3.3.zip','1.3.3 安装版' %}
+{% btn '/download/index.html?f=Yamicsoft-Windows-11-Manager-1.3.4.zip','1.3.4 安装版' %}
 <br>
-{% btn '/download/index.html?f=Windows-11-Manager-1.3.2-Portable.zip','1.3.2 便携版' %}
+{% btn '/download/index.html?f=Windows-11-Manager-1.3.4-Portable.zip','1.3.4 便携版' %}

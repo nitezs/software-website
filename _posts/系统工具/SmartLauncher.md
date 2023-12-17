@@ -1,12 +1,12 @@
 ---
-title: Smart Launcher 6.3 Build 034 学习版
+title: Smart Launcher 6.3 Build 039 学习版
 date: 2021-12-26 01:17:24
 categories: [实用资源, Android, 系统工具]
 tags: [中文, 实用资源, Android, Smart Launcher]
 urlname: smartlauncher
 cover: /img/SmartLauncher/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Android, Smart Launcher]
-updated: 2023-10-30 12:00:00
+updated: 2023-12-17 06:00:00
 ---
 
 # 简介
@@ -20,4 +20,4 @@ Smart Launcher 提供专注于效率和自定义的全新 Android 体验。
 
 # 下载
 
-{% btn '/download/index.html?f=Smart-Launcher-Pro-v6.3-build-034-build-630340.apk',下载 %}
+{% btn '/download/index.html?f=Smart-Launcher-Pro-v6.3-build-039-build-630390.apk',下载 %}

@@ -1,12 +1,12 @@
 ---
-title: InnoExtractor Plus 6.2.1.418 (安装/便携) 学习版
+title: InnoExtractor Plus 7.0.0.503 (安装/便携) 学习版
 date: 2022-02-03 19:51:41
 categories: [实用资源, Windows, 编程开发]
 tags: [中文, 实用资源, Windows, 编程开发]
 urlname: innoextractor
 cover: /img/InnoExtractor/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, 编程开发]
-updated: 2023-01-05 16:00:00
+updated: 2023-12-17 06:00:00
 ---
 
 # 简介
@@ -25,9 +25,9 @@ InnoExtractor 提取 Inno 制作的安装包中的文件的利器，支持输入
 
 # 下载
 
-# 6.2.1.418 安装版
+# 7.0.0.503 安装版
 
-{% btn '/download/index.html?f=InnoExtractor-Plus-6.2.1.418.zip',下载 %}
+{% btn '/download/index.html?f=InnoExtractor-v7.0.0.503.zip',下载 %}
 
 # 6.1.0.407 便携版
 

@@ -1,5 +1,5 @@
 ---
-title: Picsart(美易照片编辑) 23.7.7 学习版
+title: Picsart(美易照片编辑) 23.8.7 学习版
 date: 2021-11-18 13:16:27
 categories: [实用资源, Android, 媒体处理]
 tags: [中文, 实用资源, Android, Picsart, 美易照片编辑]
@@ -18,7 +18,7 @@ keywords:
         Picsart,
         美易照片编辑,
     ]
-updated: 2023-11-29 06:00:00
+updated: 2023-12-17 06:00:00
 ---
 
 # 简介
@@ -31,4 +31,4 @@ PicsArt 美易照片编辑 (PicsArt Photo Studio),是一款免费的移动 图�
 
 # 下载
 
-{% btn '/download/index.html?f=Picsart-v23.7.7.apk',下载 %}
+{% btn '/download/index.html?f=Picsart-v23.8.7-youarefinished.apk',下载 %}

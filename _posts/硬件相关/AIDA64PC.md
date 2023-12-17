@@ -1,12 +1,12 @@
 ---
-title: AIDA64 6.92.6600 Engineer/Extreme/Business/Network (安装/便携) 学习版
+title: AIDA64 7.0.6700 Engineer/Extreme/Business/Network (安装/便携) 学习版
 date: 2021-12-14 12:08:42
 categories: [实用资源, Windows, 硬件相关]
 tags: [中文, 实用资源, Windows, AIDA64]
 urlname: aida64pc
 cover: /img/AIDA64PC/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, AIDA64]
-updated: 2023-09-14 15:00:00
+updated: 2023-12-17 06:00:00
 ---
 
 # 简介
@@ -22,7 +22,9 @@ AIDA64 是一款测试软硬件系统信息的工具，它可以详细的显示�
 
 {% btn '/download/index.html?f=AIDA64-Business-Network-Audit-6.90.6500.zip','Business/Network' %}
 <br>
-{% btn '/download/index.html?f=AIDA64-Extreme-Engineer-6.90.6500.zip','Extreme/Engineer' %}
+{% btn '/download/index.html?f=AIDA64-Extreme-Engineer-7.00.6700-Final.zip','Extreme/Engineer' %}
+<br>
+{% btn '/download/index.html?f=Aida64-7.0.6700-Portable.zip"','便携版' %}
 <br>
 {% btn '/download/index.html?f=AIDA64-6.92.6600-Business-Portable.zip','Business 便携版' %}
 <br>

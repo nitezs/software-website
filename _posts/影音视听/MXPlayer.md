@@ -1,12 +1,12 @@
 ---
-title: MX Player Pro 1.68.4 纯净版
+title: MX Player Pro 1.74.6 纯净版
 date: 2021-08-12 09:25:19
 categories: [实用资源, Android, 影音视听]
 tags: [中文, 实用资源, mx player, 专业版]
 urlname: mxplayerpro
 cover: /img/MXPlayer/1.png
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, mx player, 专业版]
-updated: 2023-08-10 05:00:00
+updated: 2023-12-17 06:00:00
 ---
 
 # 简介
@@ -37,4 +37,4 @@ MX 视频播放器 MX Video Player 是一款最优秀的媒体播放器软件，
 
 # 下载
 
-{% btn '/download/index.html?f=MX-Player-Pro-v1.68.4-build-2001002074.apk','1.68.4 Pro 学习版' %}
+{% btn '/download/index.html?f=MX-Player-Pro-v1.74.6-build-2001002206-AC3-DTS-NEON-ROCKMODS.apk','1.74.6 Pro 学习版' %}

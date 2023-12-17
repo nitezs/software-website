@@ -1,5 +1,5 @@
 ---
-title: Perfectly Clear Workbench 4.6.0.2618 (安装/便携) 学习版
+title: Perfectly Clear Workbench 4.6.0.2623 (安装/便携) 学习版
 date: 2021-11-13 12:33:07
 categories:
     - [实用资源, Windows, 媒体处理]
@@ -18,7 +18,7 @@ keywords:
         Windows,
         Perfectly Clear Workbench,
     ]
-updated: 2023-12-05 04:30:00
+updated: 2023-12-17 06:00:00
 ---
 
 # 简介
@@ -31,6 +31,6 @@ Perfectly Clear WorkBench 是一款图像修复工具，可以帮助用户对自
 
 # 下载
 
-{% btn '/download/index.html?f=Perfectly-Clear-WorkBench-4.6.0.2618.zip','4.6.0.2618 安装版' %}
+{% btn '/download/index.html?f=Perfectly-Clear-WorkBench-4.6.0.2623.zip','4.6.0.2623 安装版' %}
 <br>
 {% btn '/download/index.html?f=Perfectly-Clear-Workbench-4.6.0.2617-Portable.zip','4.6.0.2617 便携版' %}

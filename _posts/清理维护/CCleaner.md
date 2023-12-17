@@ -6,7 +6,7 @@ tags: [中文, 实用资源, ccleaner]
 urlname: ccleaner
 cover: /img/CCleaner/1.png
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, ccleaner]
-updated: 2023-11-29 06:00:00
+updated: 2023-12-17 06:00:00
 ---
 
 # 简介
@@ -29,7 +29,7 @@ Speccy 就是制作 CCleaner 的公司 Piriform 所开发的第四款软件，�
 
 | 软件名                                                                                                      | 更新日期   |
 | ----------------------------------------------------------------------------------------------------------- | ---------- |
-| [CCleaner Pro 6.18 安装版](/download/index.html?f=CCleaner-Professional-6.18.10838.zip)                     | 2023-11-29 |
+| [CCleaner Pro 6.19 安装版](/download/index.html?f=CCleaner-Professional-6.19.10858.zip)                     | 2023-12-17 |
 | [CCleaner Pro 6.18.10838 便携版](/download/index.html?f=Ccleaner-Pro-6.18.10838-Portable.zip)               | 2023-11-29 |
 | [Defraggler Pro 2.22.33.995 安装版](/download/index.html?f=Defraggler-Professional_2.22.33.995.7z)          | 2022-06-23 |
 | [Defraggler Pro 2.22.33.995 便携版](/download/index.html?f=Defraggler-Professional_2.22.33.995_Portable.7z) | 2022-07-22 |

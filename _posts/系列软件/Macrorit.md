@@ -8,7 +8,7 @@ tags: [实用资源, Windows, 系列软件, Macrorit]
 urlname: macrorit
 cover: /img/Macrorit/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, Macrorit]
-updated: 2023-10-11 16:00:00
+updated: 2023-12-17 06:00:00
 ---
 
 # 简介
@@ -28,7 +28,7 @@ Macrorit Data Recovery（数据恢复工具）：这类工具可能帮助用户�
 
 | 文件                                                                                                                 | 更新时间   |
 | -------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [Macrorit Partition Expert 8.0.0 便携版](/download/index.html?f=Macrorit-Partition-Expert-Ue-8.0.0-Portable.zip)     | 2023-10-12 |
+| [Macrorit Partition Expert 8.1.0 便携版](/download/index.html?f=Macrorit-Partition-Expert-Ue-8.1.0-Portable.zip)     | 2023-12-17 |
 | [Macrorit Data Wiper 6.9.7 便携版](/download/index.html?f=Macrorit-Data-Wiper-Ue-6.9.7-Portable.zip)                 | 2023-08-13 |
-| [Macrorit Disk Scanner 6.6.6 便携版](/download/index.html?f=Macrorit-Disk-Scanner-Ue-6.6.6-Portable.zip)             | 2023-08-13 |
+| [Macrorit Disk Scanner 6.7.0 便携版](/download/index.html?f=Macrorit-Disk-Scanner-Ue-6.7.0-Portable.zip)             | 2023-12-17 |
 | [Macrorit Partition Extender 2.3.1 便携版](/download/index.html?f=Macrorit-Partition-Extender-Ue-2.3.1-Portable.zip) | 2023-08-13 |

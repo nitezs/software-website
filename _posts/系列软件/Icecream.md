@@ -3,7 +3,7 @@ title: Icecream 系列软件 Windows 学习版
 tags: [中文, 实用资源, Windows, Icecream]
 cover: /img/Icecream/1.jpg
 date: 2023-03-19 11:21:56
-updated: 2023-12-05 04:30:00
+updated: 2023-12-17 06:00:00
 categories:
     - [实用资源, Windows, 系列软件]
     - [合集]
@@ -20,17 +20,17 @@ Icecream Apps 是一家乌克兰的软件公司，成立于 2014 年，总部位
 | 文件 | 更新时间 |
 | ---- | -------- |
 
-| [Icecream PDF Editor Pro 3.16 安装版](/download/index.html?f=Icecream-PDF-Editor-Pro-3.16.zip) | 2023-12-05 |
+| [Icecream PDF Editor Pro 3.18 安装版](/download/index.html?f=Icecream-PDF-Editor-Pro-3.18.zip) | 2023-12-17 |
 | [Icecream PDF Editor Pro 3.16 便携版](/download/index.html?f=Icecream-Pdf-Editor-3.16-Portable.zip) | 2023-12-05 |
 | [Icecream Screen Recorder Pro 7.32 安装版](/download/index.html?f=Icecream-Screen-Recorder-Pro-7.32.zip) | 2023-11-22 |
 | [Icecream Screen Recorder Pro 7.32 便携版](/download/index.html?f=Icecream-Screen-Recorder-7.32-Portable.zip) | 2023-11-29 |
 | [Icecream Ebook Reader Pro 6.40 安装版](/download/index.html?f=Icecream-Ebook-Reader-Pro-6.40.zip) | 2023-11-11 |
 | [Icecream Ebook Reader Pro 6.42 便携版](/download/index.html?f=Icecream-Ebook-Reader-6.42-Portable.zip) | 2023-11-29 |
-| [Icecream Video Editor Pro 3.12 安装版](/download/index.html?f=Icecream-Video-Editor-Pro-3.12.zip) | 2023-12-05 |
+| [Icecream Video Editor Pro 3.13 安装版](/download/index.html?f=Icecream-Video-Editor-Pro-3.13.zip) | 2023-12-17 |
 | [Icecream Video Editor Pro 3.12 便携版](/download/index.html?f=Icecream-Video-Editor-3.12-Portable.zip) | 2023-12-05 |
 | [Icecream PDF Candy Desktop Pro 2.94 安装版](/download/index.html?f=Icecream-PDF-Candy-Desktop-Pro-2.94.zip) | 2023-04-26 |
 | [Icecream PDF Candy Desktop Pro 2.94 便携版](/download/index.html?f=Icecream-PDF-Candy-Desktop-Pro-2.94-Portable.zip) | 2023-04-26 |
-| [Icecream Photo Editor 1.44 安装版](/download/index.html?f=Icecream-Photo-Editor-Pro-1.44.zip) | 2023-12-05 |
+| [Icecream Photo Editor 1.46 安装版](/download/index.html?f=Icecream-Photo-Editor-Pro-1.46.zip) | 2023-12-17 |
 | [Icecream Photo Editor 1.44 便携版](/download/index.html?f=Icecream-Photo-Editor-1.44-Portable.zip) | 2023-12-05 |
 | [Icecream Image Resizer Pro 2.13 安装版](/download/index.html?f=Icecream-Image-Resizer-Pro-2.13.zip) | 2023-04-26 |
 | [Icecream Image Resizer Pro 2.13 便携版](/download/index.html?f=Icecream-Image-Resizer-2.13-Portable.zip) | 2023-05-31 |

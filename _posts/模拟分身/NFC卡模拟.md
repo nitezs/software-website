@@ -1,12 +1,12 @@
 ---
-title: NFC卡模拟 9.0.3-903 学习版
+title: NFC卡模拟 9.0.5 学习版
 date: 2021-12-08 13:36:27
 categories: [实用资源, Android, 模拟分身]
 tags: [中文, 实用资源, Android, NFC卡模拟]
 urlname: nfckmn
 cover: /img/NFC卡模拟/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Android, NFC卡模拟]
-updated: 2023-08-13 03:00:00
+updated: 2023-12-17 06:00:00
 ---
 
 # 简介
@@ -19,4 +19,4 @@ NFC 卡模拟是一个功能强大且免费的 NFC 卡模拟器，可模拟各�
 
 # 下载
 
-{% btn '/download/index.html?f=NFC-Card-Emulator-Pro-v9.0.3-903.apk',下载 %}
+{% btn '/download/index.html?f=NFC卡模拟-9.0.5-wushidi.apk',下载 %}

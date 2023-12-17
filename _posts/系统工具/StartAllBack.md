@@ -1,5 +1,5 @@
 ---
-title: StartAllBack 3.7.0.4840 学习版
+title: StartAllBack 3.7.2.4852 学习版
 date: 2021-10-10 20:44:19
 categories: [实用资源, Windows, 系统工具]
 tags: [中文, 实用资源, Windows, StartAllBack]
@@ -7,7 +7,7 @@ urlname: startallback
 cover: /img/StartAllBack/1.jpg
 keywords:
     [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, StartAllBack]
-updated: 2023-12-05 04:30:00
+updated: 2023-12-17 06:00:00
 ---
 
 # 简介
@@ -22,4 +22,4 @@ StartAllBack 是一款 Windows 开始菜单增强工具，为 Windows11 恢复�
 
 # 下载
 
-{% btn '/download/index.html?f=StartAllBack-3.7.0.4840.zip',下载 %}
+{% btn '/download/index.html?f=StartAllBack-3.7.2.4852.zip',下载 %}

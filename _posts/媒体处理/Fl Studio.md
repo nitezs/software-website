@@ -1,12 +1,12 @@
 ---
-title: FL Studio 21.1.0.3713 学习版
+title: FL Studio 21.2.2.3914 学习版
 date: 2021-09-05 10:32:10
 categories: [实用资源, Windows, 媒体处理]
 tags: [中文, 实用资源, Windows, fl, studio, 水果]
 urlname: shuiguo
 cover: /img/Fl Studio/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, fl studio, 水果]
-updated: 2023-08-10 05:00:00
+updated: 2023-12-17 06:00:00
 # password: nite07home
 ---
 
@@ -24,4 +24,4 @@ FL Studio 已被 Hip-Hop 音乐和电子舞曲的制作者所使用，例如 Mar
 
 # 下载
 
-{% btn '/download/index.html?f=Image-Line-FL-Studio-Producer-Edition-21-1-0-Build-3713.exe',下载 %}
+{% btn '/download/index.html?f=Image-Line-FL-Studio-Producer-Edition-21.2.2.3914-WD.zip',下载 %}

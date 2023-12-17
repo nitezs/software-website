@@ -3,7 +3,7 @@ title: Stardock系列软件学习版
 tags: [中文, 实用资源, Windows, Stardock]
 cover: /img/Stardock/1.jpg
 date: 2023-08-30 08:00:00
-updated: 2023-11-29 06:00:00
+updated: 2023-12-17 06:00:00
 categories:
     - [实用资源, Windows, 系列软件]
     - [合集]
@@ -26,7 +26,7 @@ Stardock 是个人电脑软件公司，致力于 Windows 美化类的软件和�
 
 | 文件                                                                                          | 更新时间   |
 | --------------------------------------------------------------------------------------------- | ---------- |
-| [Stardock Fences 5.0.0.1](/download/index.html?f=Stardock-Fences-5.0.0.1.zip)                 | 2023-11-20 |
+| [Stardock Fences 5.04](/download/index.html?f=Stardock-Fences-5.04.zip)                 | 2023-12-17 |
 | [Stardock Groupy 2.12](/download/index.html?f=Stardock-Groupy-2.12.zip)                       | 2023-10-12 |
 | [Stardock Start11 2.03](/download/index.html?f=Stardock-Start11-v2.03.zip)                    | 2023-11-29 |
 | [Stardock Start10 1.97.1](/download/index.html?f=Stardock-Start10_1.97.1.7z)                  | 2022-05-20 |

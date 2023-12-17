@@ -1,9 +1,9 @@
 ---
-title: X-plore 4.34.02 学习版
+title: X-plore 4.34.07 学习版
 tags: [中文, 实用资源, Android, 文件管理]
 cover: /img/Xplore/1.jpg
 date: 2023-05-22 09:37:23
-updated: 2023-11-29 06:00:00
+updated: 2023-12-17 06:00:00
 categories: [实用资源, Android, 文件管理]
 urlname: xplore
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Android, 文件管理]
@@ -19,4 +19,4 @@ X-plore 是双面板文件管理器,可以同时显示两个文件夹,快速实�
 
 # 下载
 
-{% btn '/download/index.html?f=X-plore-Donate-v4.34.02-build-43402.apk',下载 %}
+{% btn '/download/index.html?f=X-plore-Donate-v4.34.07-build-43407.apk',下载 %}

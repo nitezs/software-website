@@ -1,9 +1,9 @@
 ---
-title: Valentina Studio Pro 13.6 学习版
+title: Valentina Studio Pro 13.6.1 学习版
 tags: [中文, 实用资源, Windows, Valentina Studio]
 cover: /img/Valentina-Studio/1.jpg
 date: 2023-01-03 19:52:46
-updated: 2023-11-29 06:00:00
+updated: 2023-12-17 06:00:00
 categories:
     - [实用资源, Windows, 编程开发]
 urlname: valentinastudio
@@ -21,4 +21,4 @@ Valentina Studio 是一个 MySQL、PostgreSQL、Valentina DB 和 SQLite 等数�
 
 # 下载
 
-{% btn '/download/index.html?f=Valentina-Studio-Pro-13.6.zip','13.6' %}
+{% btn '/download/index.html?f=Valentina-Studio-Pro-13.6.1.zip','13.6.1' %}

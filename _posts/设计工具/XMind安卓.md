@@ -1,12 +1,12 @@
 ---
-title: XMind 23.09.11250 安卓学习版
+title: XMind 23.09.11255 安卓学习版
 date: 2021-09-19 09:50:26
 categories: [实用资源, Android, 设计工具]
 tags: [中文, 实用资源, Android, xmind]
 urlname: xmindandroid
 cover: /img/XMind安卓/1.png
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Android, xmind]
-updated: 2023-11-22 16:00:00
+updated: 2023-12-17 06:00:00
 ---
 
 # 简介
@@ -19,4 +19,4 @@ updated: 2023-11-22 16:00:00
 
 # 下载
 
-{% btn '/download/index.html?f=XMind-Mind-Map-v23.09.11250.apk',下载 %}
+{% btn '/download/index.html?f=XMind-Mind-Map-v23.09.11255-youarefinished.apk',下载 %}

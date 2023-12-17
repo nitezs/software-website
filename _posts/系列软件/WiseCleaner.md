@@ -3,7 +3,7 @@ title: WiseCleaner系列软件学习版
 tags: [中文, 实用资源, Windows, Wise]
 cover: /img/WiseCleaner/1.jpg
 date: 2023-11-17 04:23:27
-updated: 2023-12-05 04:30:00
+updated: 2023-12-17 06:00:00
 categories:
     - [实用资源, Windows, 系列软件]
     - [合集]
@@ -30,5 +30,5 @@ keywords: [中文, 实用资源, Windows, Wise, 破解, 去广告, 纯净, 绿�
 | [Wise Registry Cleaner Pro 11.1.2.717 便携版](/download/index.html?f=Wise-Registry-Cleaner-11.1.2.717-Portable.zip) | 2023-12-05 |
 | [Wise Duplicate Finder Pro 2.0.4.60 安装版](/download/index.html?f=Wise-Duplicate-Finder-Pro-2.0.4.60.zip)          | -          |
 | [Wise Data Recovery Pro 6.1.4.496 安装版](/download/index.html?f=Wise-Data-Recovery-Pro-6.1.4.496.zip)              | -          |
-| [Wise Folder Hider Pro 5.0.2.232 安装版](/download/index.html?f=Wise-Folder-Hider-Pro-5.0.2.232.zip)                | -          |
+| [Wise Folder Hider Pro 5.0.3.232 安装版](/download/index.html?f=Wise-Folder-Hider-Pro-5.0.3.233.zip)                | 2023-12-17 |
 | [Wise Video Converter Pro 3.0.2.267 安装版](/download/index.html?f=Wise-Video-Converter-Pro-3.0.2.267.zip)          | -          |

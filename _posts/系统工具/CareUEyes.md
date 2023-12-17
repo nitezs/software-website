@@ -1,12 +1,12 @@
 ---
-title: CareUEyes 2.2.10.0 (安装/便携) 学习版
+title: CareUEyes 2.2.11 (安装/便携) 学习版
 tags: [中文, 实用资源, Windows, CareUEyes]
 cover: /img/CareUEyes/1.jpg
 date: 2022-05-18 21:29:20
 categories: [实用资源, Windows, 系统工具]
 urlname: careueyes
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, CareUEyes]
-updated: 2023-11-29 06:00:00
+updated: 2023-12-17 06:00:00
 ---
 
 # 简介
@@ -19,6 +19,6 @@ CareUEyes 是一款专门为保护眼睛所设计的软件，它具有蓝光过�
 
 # 下载
 
-{% btn '/download/index.html?f=CareUEyes-Pro-2.2.10.zip','2.2.10 安装版' %}
+{% btn '/download/index.html?f=CareUEyes-Pro-2.2.11.zip','2.2.11 安装版' %}
 <br>
 {% btn '/download/index.html?f=Careueyes-2.2.10.0-Portable.zip','2.2.10.0 便携版' %}

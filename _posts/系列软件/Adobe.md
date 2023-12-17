@@ -72,7 +72,7 @@ keywords:
         Adobe FrameMaker,
         Firefly FAI Support for Adobe Photoshop,
     ]
-updated: 2023-12-05 04:30:00
+updated: 2023-12-17 06:00:00
 ---
 
 # 简介
@@ -88,34 +88,36 @@ Adobe 公司是一家美国的计算机软件公司，主要开发和销售数�
 
 | 文件                                                                                                                   | 更新时间   |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [Adobe Acrobat DC Pro 2023 23.6.20380](/download/index.html?f=Adobe-Acrobat-Pro-2023-v23.6.20380.iso)                  | 2023-11-29 |
-| [Adobe After Effects 2024 24.0.3](/download/index.html?f=Adobe-After-Effects-2024-v24.0.3.zip)                         | 2023-11-29 |
+| [Adobe Acrobat DC Pro 2023 23.8.20421](/download/index.html?f=Adobe-Acrobat-Pro-2023-v23.8.20421.zip)                  | 2023-12-17 |
+| [Adobe After Effects 2024 24.1](/download/index.html?f=Adobe-After-Effects-2024-v24.1.zip)                         | 2023-12-17 |
 | [Adobe Animate 2024 24.0](/download/index.html?f=Adobe-Animate-2024-v24.0.iso)                                         | 2023-10-22 |
 | [Adobe Audition 2024 24.0.3](/download/index.html?f=Adobe-Audition-2024-v24.0.3.zip)                                   | 2023-11-29 |
 | [Adobe Bridge 2024 14.0.1](/download/index.html?f=Adobe-Bridge-2024-v14.0.1.zip)                                       | 2023-11-29 |
 | [Adobe Character Animate 2024 24.0](/download/index.html?f=Adobe-Character-Animator-2024-v24.0.iso)                    | 2023-10-22 |
-| [Adobe Dimension 3.4.10](/download/index.html?f=Adobe-Dimension-v3.4.10.iso)                                           | 2023-08-13 |
+| [Adobe Dimension 3.4.11](/download/index.html?f=Adobe-Dimension-v3.4.11.zip)                                           | 2023-12-17 |
 | [Adobe Dreamweaver 2021 21.3](/download/index.html?f=Adobe-Dreamweaver_2021-21.3.7z)                                   | 2022-07-01 |
 | [Adobe Fresco 5.0.1](/download/index.html?f=Adobe-Fresco-v5.0.1.zip)                                                   | 2023-11-29 |
-| [Adobe Illustrator 2024 28.0](/download/index.html?f=Adobe-Illustrator-2024-v28.0.iso)                                 | 2023-10-12 |
+| [Adobe Illustrator 2024 28.1](/download/index.html?f=Adobe-Illustrator-2024-v28.1.zip)                                 | 2023-12-17 |
 | [Adobe InCopy 2024 19.0.1](/download/index.html?f=Adobe-InCopy-2024-v19.0.1.zip)                                       | 2023-11-29 |
 | [Adobe InDesign 2024 19.0.1](/download/index.html?f=Adobe-InDesign-2024-v19.0.1.zip)                                   | 2023-11-29 |
 | [Adobe Lightroom CC 5.5](/download/index.html?f=Adobe-Photoshop-Lightroom_5.5.7z)                                      | 2022-08-18 |
-| [Adobe Lightroom Classic 13.0.2](/download/index.html?f=Adobe-Lightroom-Classic-v13.0.2.iso)                           | 2023-12-05 |
-| [Adobe Media Encoder 2024 24.0.3](/download/index.html?f=Adobe-Media-Encoder-2024-v24.0.3.zip)                         | 2023-11-29 |
-| [Adobe Photoshop 2024 25.2](/download/index.html?f=Adobe-Photoshop-2024-v25.2.iso)                                     | 2023-12-05 |
+| [Adobe Lightroom Classic 13.1](/download/index.html?f=Adobe-Lightroom-Classic-v13.1.zip)                           | 2023-12-17 |
+| [Adobe Media Encoder 2024 24.1](/download/index.html?f=Adobe-Media-Encoder-2024-v24.1.zip)                         | 2023-12-17 |
+| [Adobe Photoshop 2024 25.3.1](/download/index.html?f=Adobe-Photoshop-2024-v25.3.1.z01)                                     | 2023-12-17 |
+| [Adobe Photoshop 2024 25.3.1](/download/index.html?f=Adobe-Photoshop-2024-v25.3.1.zip)                                     | 2023-12-17 |
 | [Adobe Photoshop Elements 2024 24.0](/download/index.html?f=Adobe-Photoshop-Elements-2024-v24.0.iso)                   | 2023-10-12 |
-| [Adobe Prelude 2022 22.6.0.6](/download/index.html?f=Adobe-Prelude_2022-22.6.0.6.7z)                                   | 2022-08-25 |
-| [Adobe Premiere Pro 2024 24.0.3](/download/index.html?f=Adobe-Premiere-Pro-2024-v24.0.3.zip)                           | 2023-11-29 |
-| [Adobe Premiere Elements 2024 24.0](/download/index.html?f=Adobe-Premiere-Elements-2024-v24.0.iso)                     | 2023-10-12 |
-| [Adobe Premiere Rush 2.9.0.14](/download/index.html?f=Adobe-Premiere-Rush-2.9.0.14.zip)                                | 2023-06-28 |
-| [Adobe Substance 3D Designer 13.0.2](/download/index.html?f=Adobe-Substance-3D-Designer-13.0.2.iso)                    | 2023-07-31 |
-| [Adobe Substance 3D Painter 9.1.0](/download/index.html?f=Adobe-Substance-3D-Painter-v9.1.0.zip)                       | 2023-11-29 |
-| [Adobe Substance 3D Sampler 4.2.1](/download/index.html?f=Adobe-Substance-3D-Sampler-v4.2.1.iso)                       | 2023-09-28 |
-| [Adobe Substance 3D Stager 2.1.2](/download/index.html?f=Adobe-Substance-3D-Stager-v2.1.2.iso)                         | 2023-10-22 |
-| [Adobe Substance 3D Modeler 1.4.2](/download/index.html?f=Adobe-Substance-3D-Modeler-v1.4.2.iso)                       | 2023-09-28 |
+| [Adobe Prelude 2022 22.6.1](/download/index.html?f=Adobe-Prelude-2022-v22.6.1.zip)                                   | 2023-12-17 |
+| [Adobe Premiere Pro 2024 24.1](/download/index.html?f=Adobe-Premiere-Pro-2024-v24.1.zip)                           | 2023-12-17 |
+| [Adobe Premiere Elements 2024 24.1](/download/index.html?f=Adobe-Premiere-Elements-2024-v24.1.zip)                     | 2023-12-17 |
+| [Adobe Premiere Rush 2.10](/download/index.html?f=Adobe-Premiere-Rush-v2.10.zip)                                | 2023-12-17 |
+| [Adobe Substance 3D Designer 13.1.0](/download/index.html?f=Adobe-Substance-3D-Designer-v13.1.0.zip)                    | 2023-12-17 |
+| [Adobe Substance 3D Painter 9.1.1](/download/index.html?f=Adobe-Substance-3D-Painter-v9.1.1.zip)                       | 2023-12-17 |
+| [Adobe Substance 3D Sampler 4.2.2](/download/index.html?f=Adobe-Substance-3D-Sampler-v4.2.2.zip)                       | 2023-12-17 |
+| [Adobe Substance 3D Stager 2.1.3](/download/index.html?f=Adobe-Substance-3D-Stager-v2.1.3.zip)                         | 2023-12-17 |
+| [Adobe Substance 3D Modeler 1.5.1](/download/index.html?f=Adobe-Substance-3D-Modeler-v1.5.1.zip)                       | 2023-12-17 |
+| [Adobe Substance 3D Modeler 1.5.1](/download/index.html?f=Adobe-Substance-3D-Modeler-v1.5.1.zip)                       | 2023-12-17 |
 | [Adobe XD 57.1.12](/download/index.html?f=Adobe-XD-v57.1.12.iso)                                                       | 2023-07-14 |
-| [Adobe FrameMaker 2022 17.0.2.431](/download/index.html?f=Adobe-FrameMaker-2022-v17.0.2.431.zip)                       | 2023-05-26 |
+| [Adobe Substance 3D eler v1.5.0](/download/index.html?f=Adobe-Substance-3D-eler-v1.5.0.zip)                       | 2023-12-17 |
 | [Firefly FAI Support for Adobe Photoshop 24.7](/download/index.html?f=Firefly-AI-Support-for-Adobe-Photoshop-24.7.exe) | 2023-07-31 |
 | [Adobe GenP 3.2.1 通用激活补丁](/download/index.html?f=Adobe-GenP-3.2.1.zip)                                           | 2023-10-12 |
 | [Adobe Speech to Text 2024 12.0](/download/index.html?f=Adobe-Speech-to-Text-v12.0-for-Premiere-Pro-2024.iso)          | 2023-05-26 |

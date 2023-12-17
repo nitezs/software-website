@@ -3,7 +3,7 @@ title: Ashampoo 系列软件学习版
 tags: [中文, 实用资源, Windows, Ashampoo]
 cover: /img/Ashampoo/1.jpg
 date: 2023-02-26 18:39:59
-updated: 2023-12-05 04:30:00
+updated: 2023-12-17 06:00:00
 categories:
     - [实用资源, Windows, 系列软件]
     - [合集]
@@ -19,11 +19,11 @@ Ashampoo 是软件开发、销售和 Web 门户站点领域的全球领先互联
 
 | 软件名                                                                                                            | 更新日期   |
 | ----------------------------------------------------------------------------------------------------------------- | ---------- |
-| [Ashampoo Burning Studio 24.0.3 安装版](/download/index.html?f=Ashampoo-Burning-Studio-24.0.3.zip)                | 2023-03-25 |
+| [Ashampoo Burning Studio 25.0.0 安装版](/download/index.html?f=Ashampoo-Burning-Studio-25.0.0.zip)                | 2023-12-17 |
 | [Ashampoo Burning Studio 24.0.3 便携版](/download/index.html?f=Ashampoo-Burning-Studio-24.0.3-Portable.zip)       | 2023-03-28 |
 | [Ashampoo PDF Pro 3.0.8 安装版](/download/index.html?f=Ashampoo-PDF-Pro_3.0.8.7z)                                 | 2023-02-26 |
 | [Ashampoo PDF Pro 3.0.8 便携版](/download/index.html?f=Ashampoo-PDF-Pro_3.0.8_Portable.7z)                        | 2023-02-26 |
-| [Ashampoo WinOptimizer 26.00.20 安装版](/download/index.html?f=Ashampoo-WinOptimizer-26.00.20.zip)                | 2023-11-22 |
+| [Ashampoo WinOptimizer 26.00.22 安装版](/download/index.html?f=Ashampoo-WinOptimizer-26.00.22.zip)                | 2023-12-17 |
 | [Ashampoo WinOptimizer 26.00.13 便携版](/download/index.html?f=Ashampoo-Winoptimizer-26.00.13-Portable.zip)       | 2023-08-25 |
 | [Ashampoo Photo Optimizer 10.0 安装版](/download/index.html?f=Ashampoo-Photo-Optimizer-10.0.zip)                  | 2023-11-29 |
 | [Ashampoo Photo Optimizer 9.3.7.36 便携版](/download/index.html?f=Ashampoo-Photo-Optimizer-9.3.7.36-Portable.zip) | 2023-08-25 |

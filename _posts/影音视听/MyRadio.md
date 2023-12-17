@@ -1,12 +1,12 @@
 ---
-title: MyRadio 1.1.70.1128 学习版
+title: MyRadio 1.1.72.1205 学习版
 date: 2021-11-17 19:37:38
 categories: [实用资源, Android, 影音视听]
 tags: [中文, 实用资源, Android, MyRadio]
 urlname: myradio
 cover: /img/MyRadio/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Android, MyRadio]
-updated: 2023-12-05 04:30:00
+updated: 2023-12-17 06:00:00
 ---
 
 # 简介
@@ -21,4 +21,4 @@ MyRadio 每天提供 6.5 小时多元化广播节目，内容包括资讯、政�
 
 # 下载
 
-{% btn '/download/index.html?f=MyRadio-v1.1.70.1128.apk',下载 %}
+{% btn '/download/index.html?f=MyRadio-v1.1.72.1205-Mixroot.apk',下载 %}

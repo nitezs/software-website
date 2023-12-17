@@ -1,5 +1,5 @@
 ---
-title: Office 2013-2021 C2R Install 7.7.7
+title: Office 2013-2021 C2R Install 7.7.7.4
 date: 2021-10-09 09:56:56
 categories:
     - [实用资源, Windows, 系统激活]
@@ -21,7 +21,7 @@ keywords:
         安装,
         激活,
     ]
-updated: 2023-12-05 04:30:00
+updated: 2023-12-17 06:00:00
 ---
 
 # 简介
@@ -34,5 +34,4 @@ Office 2013-2021 C2R Install 是一个在线安装程序，用于在您的电脑
 
 # 下载
 
-{% btn '/download/index.html?f=Office-2013-2024-C2R-Install-Install-Lite-7.7.7.zip
-',下载 %}
+{% btn '/download/index.html?f=Office-2013-2024-C2R-Install-Install-Lite-7.7.7.4.zip',下载 %}

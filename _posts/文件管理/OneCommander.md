@@ -1,9 +1,9 @@
 ---
-title: One Commander Pro 3.60.3 学习版
+title: One Commander Pro 3.61 学习版
 tags: [中文, 实用资源, Windows, 文件管理]
 cover: /img/OneCommander/1.jpg
 date: 2023-04-17 19:37:55
-updated: 2023-12-05 04:30:00
+updated: 2023-12-17 06:00:00
 categories: [实用资源, Windows, 文件管理]
 urlname: onecommander
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, 文件管理]
@@ -19,4 +19,4 @@ One Commander 3 是一款 Windows 下的文件管理器工具，支持多栏、�
 
 # 下载
 
-{% btn '/download/index.html?f=One-Commander-Pro-3.6.3.0.zip',下载 %}
+{% btn '/download/index.html?fOneCommander-Pro-3.61.zip',下载 %}

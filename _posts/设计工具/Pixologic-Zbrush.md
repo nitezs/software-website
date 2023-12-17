@@ -3,7 +3,7 @@ title: Pixologic Zbrush 2024.0 学习版
 tags: [中文, 实用资源, Windows, 设计工具]
 cover: /img/Pixologic-Zbrush/1.jpg
 date: 2023-01-27 10:42:32
-updated: 2023-11-17 04:00:00
+updated: 2023-12-17 06:00:00
 categories: [实用资源, Windows, 设计工具]
 urlname: pixologiczbrush
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, 设计工具]
