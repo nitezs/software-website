@@ -20,7 +20,7 @@
 ## 资源上传问题
 
 通过 [该页面](https://nite07home-my.sharepoint.com/:f:/g/personal/nite07_nite07_org/Ek1S4Oqa7WxPuX2mYAdFoboBsa5r3XcJfKsq26bxoiTUpg) 上传文件。
-上传完成后可以在 [该页面](https://d.nite07.com/upload) 看到上传好的文件，文件名应该是 `你在上传时使用的姓名_文件名`。
+上传完成后可以在 [该页面](https://www.nite07.com/d/upload) 看到上传好的文件，文件名应该是 `你在上传时使用的姓名_文件名`。
 文章中使用 `/download?f=${文件名}` 引用资源。
 
 ## 文章封面大小问题
