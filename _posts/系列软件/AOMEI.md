@@ -3,7 +3,7 @@ title: 傲梅系列软件 Windows学习版
 tags: [实用资源, Windows, AOMEI]
 cover: /img/AOMEI/1.jpg
 date: 2023-06-21 01:09:06
-updated: 2023-12-05 04:30:00
+updated: 2023-12-28 03:00:00
 categories:
     - [实用资源, Windows, 系列软件]
     - [合集]
@@ -22,11 +22,11 @@ AOMEI 成立于 2010 年，总部位于中国成都。该公司专注于提供�
 
 # 下载
 
-| 文件                                                                                                                           | 更新时间   |
-| ------------------------------------------------------------------------------------------------------------------------------ | ---------- |
-| [傲梅分区助手(AOMEI Partition Assistant) 10.2.1 安装版](/download/index.html?f=AOMEI-Partition-Assistant-10.2.1.zip)           | 2023-11-11 |
-| [傲梅分区助手(AOMEI Partition Assistant) 10.2 便携版](/download/index.html?f=Aomei-Partition-Assistant-10.2.0-Te-Portable.zip) | 2023-09-18 |
-| [傲梅轻松备份(AOMEI Backupper) 7.3.3 安装版](/download/index.html?f=AOMEI-Backupper-7.3.3.zip)                                 | 2023-11-11 |
-| [傲梅轻松备份(AOMEI Backupper) 7.3.3 便携版](/download/index.html?f=Aomei-Backupper-7.3.3-Te-Plus-Full-Portable.zip)           | 2023-11-11 |
-| [傲梅数据恢复(AOMEI MyRecover) 3.6.0 安装版](/download/index.html?f=AOMEI-MyRecover-Professional-Technician-3.6.0.zip)         | 2023-12-05 |
-| [AOMEI Fone Tool Technician 2.5 安装版](/download/index.html?f=AOMEI-Fone-Tool-Technician-2.5.zip)                             | 2023-11-29 |
+| 文件                                                                                                                             | 更新时间   |
+| -------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [傲梅分区助手(AOMEI Partition Assistant) 10.2.2 安装版](/download/index.html?f=AOMEI-Partition-Assistant-10.2.2.zip)             | 2023-12-28 |
+| [傲梅分区助手(AOMEI Partition Assistant) 10.2.2 便携版](/download/index.html?f=Aomei-Partition-Assistant-10.2.2-Te-Portable.zip) | 2023-12-28 |
+| [傲梅轻松备份(AOMEI Backupper) 7.3.3 安装版](/download/index.html?f=AOMEI-Backupper-7.3.3.zip)                                   | 2023-11-11 |
+| [傲梅轻松备份(AOMEI Backupper) 7.3.3 便携版](/download/index.html?f=Aomei-Backupper-7.3.3-Te-Plus-Full-Portable.zip)             | 2023-11-11 |
+| [傲梅数据恢复(AOMEI MyRecover) 3.6.0 安装版](/download/index.html?f=AOMEI-MyRecover-Professional-Technician-3.6.0.zip)           | 2023-12-05 |
+| [AOMEI Fone Tool Technician 2.5 安装版](/download/index.html?f=AOMEI-Fone-Tool-Technician-2.5.zip)                               | 2023-11-29 |

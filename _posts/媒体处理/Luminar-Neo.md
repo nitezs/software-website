@@ -1,5 +1,5 @@
 ---
-title: Luminar Neo 1.16.0.12503 (安装/便携) 学习版
+title: Luminar Neo 1.17.0.12639 (安装/便携) 学习版
 date: 2022-04-04 10:57:10
 categories:
     - [实用资源, Windows, 媒体处理]
@@ -7,7 +7,7 @@ tags: [英文, 实用资源, Windows, Luminar]
 urlname: luminarneo
 cover: /img/Luminar-Neo/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, Luminar]
-updated: 2023-11-17 04:00:00
+updated: 2023-12-28 03:00:00
 ---
 
 # 简介
@@ -16,6 +16,6 @@ Luminar Neo 是由未来的人工智能技术驱动的创意图像编辑器，�
 
 # 下载
 
-{% btn '/download/index.html?f=Luminar-Neo-1.16.0.12503.zip','1.16.0.12503 安装版' %}
+{% btn '/download/index.html?f=Luminar-Neo-1.17.0.12639.zip','1.17.0.12639 安装版' %}
 <br>
-{% btn '/download/index.html?f=Luminar-Neo-1.15.1.12389-Portable.zip','1.15.1.12389 便携版' %}
+{% btn '/download/index.html?f=Luminar-Neo-1.17.0.12639-Portable.zip','1.17.0.12639 便携版' %}

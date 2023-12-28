@@ -1,12 +1,12 @@
 ---
-title: MacroDroid 5.38.16 学习版
+title: MacroDroid 5.39.4 学习版
 date: 2022-01-07 00:06:47
 categories: [实用资源, Android, 办公相关]
 tags: [中文, 实用资源, Android, MacroDroid]
 urlname: macrodroid
 cover: /img/MacroDroid/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Android, MacroDroid]
-updated: 2023-12-05 04:30:00
+updated: 2023-12-28 03:00:00
 ---
 
 # 简介
@@ -19,4 +19,4 @@ MacroDroid 是一款安卓设备使用的自动化软件。它主要应用于安
 
 # 下载
 
-{% btn '/download/index.html?f=MacroDroid-v5.38.16.apk',下载 %}
+{% btn '/download/index.html?f=MacroDroid-v5.39.4-arm64-youarefinished.apk.apk',下载 %}

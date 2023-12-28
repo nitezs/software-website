@@ -1,12 +1,12 @@
 ---
-title: VivaCut 3.4.8 学习版
+title: VivaCut 3.5.0 学习版
 date: 2021-11-04 13:23:05
 categories: [实用资源, Android, 媒体处理]
 tags: [中文, 实用资源, Android, VivaCut]
 urlname: vivacut
 cover: /img/VivaCut/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Android, VivaCut]
-updated: 2023-12-17 06:00:00
+updated: 2023-12-28 03:00:00
 ---
 
 # 简介
@@ -19,4 +19,4 @@ VivaCut，一般又称 vivacut 剪辑。 VivaCut 是一款专业的 视频剪辑
 
 # 下载
 
-{% btn '/download/index.html?f=Video-Editor-APP-VivaCut-v3.4.8-youarefinished.apk',下载 %}
+{% btn '/download/index.html?f=VivaCut-Pro-Video-Editor-v3.5.0.apk',下载 %}

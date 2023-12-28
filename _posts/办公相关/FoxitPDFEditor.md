@@ -7,7 +7,7 @@ urlname: foxitpdfeditor
 cover: /img/FoxitPDFEditor/1.jpg
 keywords:
     [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, Foxit PDF Editor]
-updated: 2023-11-15 07:00:00
+updated: 2023-12-28 03:00:00
 ---
 
 # 简介
@@ -23,6 +23,8 @@ Foxit PDF Editor 是第一个真正的 PDF 文件编辑软件。它不像其他�
 # 下载
 
 {% btn '/download/index.html?f=Foxit-PDF-Editor-Pro-13.0.1.21693.zip','13.0.1.21693 PDF Editor 安装版' %}
+<br>
+{% btn '/download/index.html?f=Foxit-PDF-Editor-Pro-2023.3.0.23028.zip','2023.3.0.23028 PDF Editor 安装版(国际)' %}
 <br>
 {% btn '/download/index.html?f=福昕高级PDF编辑器专业版-13.0.0.21632-Portable.zip','PDF Editor 便携版' %}
 <br>

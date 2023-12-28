@@ -1,12 +1,12 @@
 ---
-title: MX Player Pro 1.74.6 纯净版
+title: MX Player Pro 1.74.7 学习版
 date: 2021-08-12 09:25:19
 categories: [实用资源, Android, 影音视听]
 tags: [中文, 实用资源, mx player, 专业版]
 urlname: mxplayerpro
 cover: /img/MXPlayer/1.png
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, mx player, 专业版]
-updated: 2023-12-17 06:00:00
+updated: 2023-12-28 03:00:00
 ---
 
 # 简介
@@ -15,21 +15,21 @@ MX 视频播放器 MX Video Player 是一款最优秀的媒体播放器软件，
 
 # 播放方式
 
-- 本地播放
-- 网络串流
-- 本地网络（smb）
+-   本地播放
+-   网络串流
+-   本地网络（smb）
 
 # 支持的字幕格式
 
-- DVD, DVB, SSA/ASS 字幕轨
-- SubStation Alpha(.ssa/.ass) 完整样式
-- SAMI(.smi/.sami) 支持 ruby 标签
-- SubRip(.srt)
-- MicroDVD(.sub/.txt)
-- SubViewer2.0(.sub)
-- MPL2(.mpl/.txt)
-- PowerDivX(.psb/.txt)
-- TMPlayer(.txt)
+-   DVD, DVB, SSA/ASS 字幕轨
+-   SubStation Alpha(.ssa/.ass) 完整样式
+-   SAMI(.smi/.sami) 支持 ruby 标签
+-   SubRip(.srt)
+-   MicroDVD(.sub/.txt)
+-   SubViewer2.0(.sub)
+-   MPL2(.mpl/.txt)
+-   PowerDivX(.psb/.txt)
+-   TMPlayer(.txt)
 
 # 截图
 
@@ -37,4 +37,4 @@ MX 视频播放器 MX Video Player 是一款最优秀的媒体播放器软件，
 
 # 下载
 
-{% btn '/download/index.html?f=MX-Player-Pro-v1.74.6-build-2001002206-AC3-DTS-NEON-ROCKMODS.apk','1.74.6 Pro 学习版' %}
+{% btn '/download/index.html?f=MX-Player-Pro-v1.74.7-build-2001002207-AC3-DTS-NEON.apk','1.74.6 Pro 学习版' %}

@@ -6,7 +6,7 @@ tags: [中文, 实用资源, Windows, 系统工具]
 urlname: burnaware
 cover: /img/BurnAware/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, 系统工具]
-updated: 2023-12-17 06:00:00
+updated: 2023-12-28 03:00:00
 ---
 
 # 简介
@@ -23,4 +23,4 @@ BurnAware 是一款轻量级的，功能强大，简单易用的光盘刻录工�
 
 {% btn '/download/index.html?f=BurnAware-Professional-17.2.zip','17.2 安装版' %}
 <br>
-{% btn '/download/index.html?f=Burnaware-Professional-17.1-Portable.zip','17.1 便携版' %}
+{% btn '/download/index.html?f=Burnaware-Professional-17.2-Portable.zip','17.2 便携版' %}

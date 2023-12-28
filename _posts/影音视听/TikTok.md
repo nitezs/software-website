@@ -1,12 +1,12 @@
 ---
-title: TikTok(抖音海外版) 32.3.4/ReVanced 31.2.5 去广告解除封锁版(插件1.19)
+title: TikTok(抖音海外版) 32.6.4/ReVanced 31.2.5 去广告解除封锁版(插件1.21)
 date: 2021-08-24 21:20:09
 categories: [实用资源, Android, 影音视听]
 tags: [中文, 实用资源, tiktok, 抖音]
 urlname: tiktok
 cover: /img/TikTok/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, tiktok, 抖音]
-updated: 2023-11-29 06:00:00
+updated: 2023-12-28 03:00:00
 ---
 
 # 简介
@@ -19,8 +19,8 @@ updated: 2023-11-29 06:00:00
 
 # 下载
 
-{% btn '/download/index.html?f=TikTok-32.3.4.apk','32.3.4 本体(需要配合插件)' %}
+{% btn '/download/index.html?f=TikTok-32.6.4-ROCKMODS.apk','32.6.4 本体(需要配合插件)' %}
 <br>
-{% btn '/download/index.html?f=TikTok-1.19-plugin.apk','插件' %}
+{% btn '/download/index.html?f=TikTok-1.21-plugin.apk','插件' %}
 <br>
 {% btn '/download/index.html?f=TikTok-ReVanced-v31.2.5.apk','31.2.5 ReVanced (内置插件)' %}

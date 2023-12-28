@@ -1,12 +1,12 @@
 ---
-title: Xshell 7.0134/Xftp 7.0134/Plus 7.0.0026 绿色学习版
+title: Xshell 7.0144r/Xftp 7.0144r/Plus 7.0.0031r 绿色学习版
 date: 2022-01-12 22:09:01
 categories: [实用资源, Windows, 编程开发]
 tags: [中文, 实用资源, Windows, Xshell]
 urlname: xshell
 cover: /img/Xshell/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, Xshell]
-updated: 2023-06-29 17:00:00
+updated: 2023-12-28 03:00:00
 ---
 
 # 简介
@@ -20,15 +20,10 @@ Xshell 可以在 Windows 界面下用来访问远端不同系统下的服务器�
 
 ![](/img/Xshell/2.jpg)
 
-# 使用方法
-
-1. 解压文件
-2. 运行 **!)绿化处理.bat**
-
 # 下载
 
-{% btn '/download/index.html?f=Xshell-v7.0134.zip',Xshell %}
+{% btn '/download/index.html?f=Xshell-7.0.0144r.zip',Xshell %}
 <br>
-{% btn '/download/index.html?f=Xftp-v7.0134.zip',Xftp %}
+{% btn '/download/index.html?f=Xftp-7.0.0144r.zip',Xftp %}
 <br>
-{% btn '/download/index.html?f=Xshell-Plus-v7.0.0026.zip','XshellPlus（Xshell+Xftp）' %}
+{% btn '/download/index.html?f=XshellPlus-7.0.0031r.zip','XshellPlus（Xshell+Xftp）' %}

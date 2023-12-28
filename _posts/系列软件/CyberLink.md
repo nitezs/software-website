@@ -8,7 +8,7 @@ categories:
     - [合集]
 urlname: cyberlink
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, CyberLink]
-updated: 2023-12-17 06:00:00
+updated: 2023-12-28 03:00:00
 ---
 
 # 简介
@@ -19,16 +19,17 @@ CYBERLINK 总部位于台湾的讯连科技创立于 1995 年，拥有顶尖视�
 
 # 下载
 
-| 软件名                                                                                                                        | 更新日期   |
-| ----------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [CyberLink ActionDirector Ultra 3.0.7425.0](/download/index.html?f=CyberLink%20ActionDirector%20Ultra%203.0.7425.0%20x64.7z)  | -          |
-| [CyberLink ColorDirector Ultra 12.0.3523.11](/download/index.html?f=CyberLink-ColorDirector-Ultra-2024-v12.0.3523.11.zip)     | 2023-11-29 |
-| [CyberLink AudioDirector Ultra 14.0.3523.11](/download/index.html?f=CyberLink-AudioDirector-Ultra-2024-v14.0.3523.11.zip)     | 2023-11-29 |
-| [CyberLink PowerDirector Ultimate 22.0.2405.0](/download/index.html?f=CyberLink-PowerDirector-Ultimate-2024-v22.0.2405.0.zip) | 2023-12-17 |
-| [CyberLink PowerDVD Ultra 22.0.3526.62](/download/index.html?f=CyberLink-PowerDVD-Ultra-22.0.3526.62.zip)                     | 2023-12-05 |
-| [CyberLink PhotoDirector Ultra 15.0.1205.0](/download/index.html?f=CyberLink-PhotoDirector-Ultra-2024-v15.0.1205.0.zip)       | 2023-12-17 |
-| [CyberLink YouCam 10.1.2717.0](/download/index.html?f=CyberLink-YouCam-10.1.2717.0.zip)                                       | 2023-03-23 |
-| [CyberLink PerfectCam Premium 2.3.7124.0](/download/index.html?f=CyberLink-PerfectCam-Premium-2.3.7124.0.zip)                  | 2023-12-17 |
-| [CyberLink Power2Go Platinum 13.0.5318.0](/download/index.html?f=CyberLink-Power2Go-Platinum-13.0.5318.0.zip)                 | 2023-06-16 |
-| [CyberLink Promeo Premium 7.0.2219.0](/download/index.html?f=CyberLink-Promeo-Premium-7.0.2219.0.zip)                         | 2023-10-30 |
-| [CyberLink Screen Recorder Deluxe 4.3.1.27960](/download/index.html?f=CyberLink-Screen-Recorder-Deluxe-4.3.1.27960.zip)       | 2023-09-18 |
+| 软件名                                                                                                                                        | 更新日期   |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [CyberLink ActionDirector Ultra 3.0.7425.0](/download/index.html?f=CyberLink%20ActionDirector%20Ultra%203.0.7425.0%20x64.7z)                  | -          |
+| [CyberLink ColorDirector Ultra 12.0.3523.11](/download/index.html?f=CyberLink-ColorDirector-Ultra-2024-v12.0.3523.11.zip)                     | 2023-11-29 |
+| [CyberLink AudioDirector Ultra 14.0.3523.11](/download/index.html?f=CyberLink-AudioDirector-Ultra-2024-v14.0.3523.11.zip)                     | 2023-11-29 |
+| [CyberLink PowerDirector Ultimate 22.0.2405.0](/download/index.html?f=CyberLink-PowerDirector-Ultimate-2024-v22.0.2405.0.zip)                 | 2023-12-17 |
+| [CyberLink PowerDVD Ultra 22.0.3526.62](/download/index.html?f=CyberLink-PowerDVD-Ultra-22.0.3526.62.zip)                                     | 2023-12-05 |
+| [CyberLink PhotoDirector Ultra 15.0.1205.0](/download/index.html?f=CyberLink-PhotoDirector-Ultra-2024-v15.0.1205.0.zip)                       | 2023-12-17 |
+| [CyberLink YouCam 10.1.2717.0](/download/index.html?f=CyberLink-YouCam-10.1.2717.0.zip)                                                       | 2023-03-23 |
+| [CyberLink PerfectCam Premium 2.3.7124.0](/download/index.html?f=CyberLink-PerfectCam-Premium-2.3.7124.0.zip)                                 | 2023-12-17 |
+| [CyberLink Power2Go Platinum 13.0.5318.0](/download/index.html?f=CyberLink-Power2Go-Platinum-13.0.5318.0.zip)                                 | 2023-06-16 |
+| [CyberLink Promeo Premium 7.0.2219.0](/download/index.html?f=CyberLink-Promeo-Premium-7.0.2219.0.zip)                                         | 2023-10-30 |
+| [CyberLink Screen Recorder Deluxe 4.3.1.27960](/download/index.html?f=CyberLink-Screen-Recorder-Deluxe-4.3.1.27960.zip)                       | 2023-09-18 |
+| [CyberLink Media Player with PowerDVD Ultra 22.0.3530.62](/download/index.html?f=CyberLink-Media-Player-with-PowerDVD-Ultra-22.0.3530.62.zip) | 2023-12-28 |

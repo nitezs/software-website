@@ -1,12 +1,12 @@
 ---
-title: µTorrent(uTorrent) Pro 3.6.0-46944 (安装/便携) 学习版
+title: µTorrent(uTorrent) Pro 3.6.0-46984 学习版
 date: 2022-01-21 10:15:14
 categories: [实用资源, Windows, 上传下载]
 tags: [中文, 实用资源, Windows, uTorrent]
 urlname: utorrentpc
 cover: /img/uTorrentPC/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, uTorrent]
-updated: 2023-12-05 04:30:00
+updated: 2023-12-28 03:00:00
 ---
 
 # 简介
@@ -20,4 +20,4 @@ updated: 2023-12-05 04:30:00
 
 # 下载
 
-{% btn '/download/index.html?f=uTorrent-Pro-3.6.0-Build-46944.zip','3.6.0-46944 安装' %}
+{% btn '/download/index.html?f=uTorrent-Pro-3.6.0-Build-46984.zip','3.6.0-46984 安装' %}

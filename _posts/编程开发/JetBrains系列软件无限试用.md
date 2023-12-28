@@ -1,5 +1,5 @@
 ---
-title: JetBrains 系列IDE官方版及白嫖教程(220801)
+title: JetBrains 系列IDE官方版及白嫖教程
 date: 2021-07-24 12:03:51
 categories: [实用资源, Windows, 编程开发]
 tags: [中文, JetBrains, 无限试用]
@@ -10,6 +10,22 @@ updated: 2022-08-02 14:00:00
 ---
 
 # 官方版（点击下载）
+
+## 国际站
+
+-   [CLion](https://www.jetbrains.com/clion/download/)
+-   [DataGrip](https://www.jetbrains.com/datagrip/download/)
+-   [DataSpell](https://www.jetbrains.com/dataspell/download/)
+-   [GoLand](https://www.jetbrains.com/go/download/)
+-   [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
+-   [PhpStorm](https://www.jetbrains.com/phpstorm/download/)
+-   [PyCharm](https://www.jetbrains.com/pycharm/download/)
+-   [Rider](https://www.jetbrains.com/rider/download/)
+-   [RubyMine](https://www.jetbrains.com/ruby/download/)
+-   [WebStorm](https://www.jetbrains.com/webstorm/download/)
+-   [其他](https://www.jetbrains.com/products/)
+
+## 中国站
 
 -   [CLion](https://www.jetbrains.com.cn/clion/download/)
 -   [DataGrip](https://www.jetbrains.com.cn/datagrip/download/)
@@ -25,10 +41,10 @@ updated: 2022-08-02 14:00:00
 
 # 2021.3 之后版本
 
-1. 下载 [ja-netfilter-all](https://jetbrains.nite07.org)
+1. 下载 [ja-netfilter-all](https://jetbra.in/s)
 2. 解压 **ja-netfilter-all.zip**
 3. 运行 **ja-netfilter-all\scripts\install-current-user.vbs**
-4. 使用 jetbra.in/s 里的激活码或激活服务器激活
+4. 使用页面里的激活码或激活服务器激活
 
 注意: 运行完第三步后，ja-netfilter-all 文件夹不能删除或移动
 如果需要删除或移动文件夹先运行 ja-netfilter-all\scripts\uninstall-current-user.vbs

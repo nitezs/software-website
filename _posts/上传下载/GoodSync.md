@@ -1,12 +1,12 @@
 ---
-title: GoodSync Enterprise 12.4.8.8 (安装/便携) 学习版
+title: GoodSync Enterprise 12.5.1.1 (安装/便携) 学习版
 date: 2021-10-13 08:04:59
 categories: [实用资源, Windows, 上传下载]
 tags: [中文, 实用资源, Windows, GoodSync]
 urlname: goodsync
 cover: /img/GoodSync/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, GoodSync]
-updated: 2023-11-29 06:00:00
+updated: 2023-12-28 03:00:00
 ---
 
 # 简介
@@ -19,6 +19,6 @@ Goodsync 可以说是目前最好用的的文件同步工具，可以支持双�
 
 # 下载
 
-{% btn '/download/index.html?f=GoodSync-Enterprise-12.4.8.8.zip','安装版' %}
+{% btn '/download/index.html?f=GoodSync-Enterprise-12.5.1.1.zip','安装版' %}
 <br>
 {% btn '/download/index.html?f=Goodsync-Enterprise-12.4.1.1-Portable.zip','便携版' %}

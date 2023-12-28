@@ -1,5 +1,5 @@
 ---
-title: MATLAB R2023b Update 4 学习版
+title: MATLAB R2023b Update 5学习版
 date: 2022-01-12 21:58:25
 categories:
     - [实用资源, Windows, 数据处理]
@@ -7,7 +7,7 @@ tags: [中文, 实用资源, Windows, MATLAB]
 urlname: matlab
 cover: /img/Matlab/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, MATLAB]
-updated: 2023-11-17 04:00:00
+updated: 2023-12-28 03:00:00
 ---
 
 # 简介
@@ -22,7 +22,7 @@ MATLAB（Matrix Laboratory，矩阵实验室）是由美国 The MathWorks 公司
 
 | 分卷                                                                               |
 | ---------------------------------------------------------------------------------- |
-| [z01](/download/index.html?f=MathWorks-MATLAB-R2023b-v23.2.0.2428915-Update-4.z01) |
-| [z02](/download/index.html?f=MathWorks-MATLAB-R2023b-v23.2.0.2428915-Update-4.z02) |
-| [z03](/download/index.html?f=MathWorks-MATLAB-R2023b-v23.2.0.2428915-Update-4.z03) |
-| [zip](/download/index.html?f=MathWorks-MATLAB-R2023b-v23.2.0.2428915-Update-4.zip) |
+| [z01](/download/index.html?f=MathWorks-MATLAB-R2023b-v23.2.0.2459199-Update-5.z01) |
+| [z02](/download/index.html?f=MathWorks-MATLAB-R2023b-v23.2.0.2459199-Update-5.z02) |
+| [z03](/download/index.html?f=MathWorks-MATLAB-R2023b-v23.2.0.2459199-Update-5.z03) |
+| [zip](/download/index.html?f=MathWorks-MATLAB-R2023b-v23.2.0.2459199-Update-5.zip) |

@@ -1,9 +1,9 @@
 ---
-title: OfficeSuite 8.0.53534 Windows学习版
+title: OfficeSuite 8.10.53804 Windows学习版
 tags: [中文, 实用资源, Windows, OfficeSuite]
 cover: /img/OfficeSuitePC/1.jpg
 date: 2022-07-13 21:01:21
-updated: 2023-12-17 06:00:00
+updated: 2023-12-28 03:00:00
 categories: [实用资源, Windows, 办公相关]
 urlname: officesuitepc
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, OfficeSuite]
@@ -21,4 +21,4 @@ Officesuite 是由 MobiSystems 开发的跨平台办公套件它适用于 Androi
 
 # 下载
 
-{% btn '/download/index.html?f=OfficeSuite-Premium-8.0.53534.zip',下载 %}
+{% btn '/download/index.html?f=OfficeSuite-Premium-8.10.53804.zip',下载 %}

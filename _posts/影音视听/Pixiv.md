@@ -1,12 +1,12 @@
 ---
-title: Pixiv 6.93.0 纯净版
+title: Pixiv 6.94.0 纯净版
 date: 2021-09-26 10:43:30
 categories: [实用资源, Android, 影音视听]
 tags: [中文, 实用资源, Android, Pixiv]
 urlname: pixiv
 cover: /img/Pixiv/1.png
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Android, Pixiv]
-updated: 2023-12-17 06:00:00
+updated: 2023-12-28 03:00:00
 ---
 
 # 简介
@@ -19,4 +19,4 @@ pixiv 是一个以插图、漫画和小说、艺术为中心的社交网络服�
 
 # 下载
 
-{% btn '/download/index.html?f=pixiv-v6.93.0-ed-ROCKMODS.apk',下载 %}
+{% btn '/download/index.html?f=pixiv-v6.94.0-youarefinished.apk',下载 %}

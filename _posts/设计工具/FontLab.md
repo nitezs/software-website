@@ -1,11 +1,11 @@
 ---
-title: FontLab Studio 8.2.1.8638 学习版
+title: FontLab Studio 8.3.0.8736 学习版
 tags: [英文, 实用资源, Windows, FontLab]
 cover: /img/FontLab/1.jpg
 date: 2022-07-13 21:06:11
-updated: 2023-08-31 13:00:00
+updated: 2023-12-28 03:00:00
 categories:
-  - [实用资源, Windows, 设计工具]
+    - [实用资源, Windows, 设计工具]
 urlname: fontlab
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, FontLab]
 ---
@@ -20,4 +20,4 @@ FontLab 是一款非常专业的字体制作工具，通过这款软件可以制
 
 # 下载
 
-{% btn '/download/index.html?f=FontLab-8.2.1.8638.zip','下载' %}
+{% btn '/download/index.html?f=FontLab-8.3.0.8736-Beta.zip','下载' %}

@@ -1,12 +1,12 @@
 ---
-title: Boris FX Mocha Pro 2023 10.0.4.41 独立/Adobe插件/OFX插件 学习版
+title: Boris FX Mocha Pro 2023 10.0.5.38 独立/Adobe插件/OFX插件 学习版
 tags: [英文, 实用资源, Windows, Mocha]
 cover: /img/Mocha/1.jpg
 date: 2022-05-18 21:20:33
 categories: [实用资源, Windows, 媒体处理]
 urlname: mocha
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, Mocha]
-updated: 2023-10-04 07:00:00
+updated: 2023-12-28 03:00:00
 ---
 
 # 简介
@@ -19,8 +19,8 @@ Mocha Pro 平面追踪工具功能介绍 Mocha 是用于 VFX 和后期制作的�
 
 # 下载
 
-{% btn '/download/index.html?f=Boris-FX-Mocha-Pro-2023-v10.0.4.41-(Stand-alone).zip','独立版' %}
+{% btn '/download/index.html?f=Boris-FX-Mocha-Pro-2023-v10.0.5.38-Stand-alone.zip','独立版' %}
 <br>
-{% btn '/download/index.html?f=Boris-FX-Mocha-Pro-2023-v10.0.4.41-(Plug-ins-for-Adobe).zip','Adobe 插件版' %}
+{% btn '/download/index.html?f=Boris-FX-Mocha-Pro-2023-v10.0.5.38-Plug-ins-for-Adobe.zip','Adobe 插件版' %}
 <br>
-{% btn '/download/index.html?f=Boris-FX-Mocha-Pro-2023-v10.0.4.41-(Plug-ins-for-OFX).zip','OFX 插件版' %}
+{% btn '/download/index.html?f=Boris-FX-Mocha-Pro-2023-v10.0.5.38-Plug-ins-for-OFX.zip','OFX 插件版' %}

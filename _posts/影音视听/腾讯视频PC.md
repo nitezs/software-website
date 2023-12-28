@@ -1,12 +1,12 @@
 ---
-title: 腾讯视频 11.82.7023.0 Windows去广告绿色版
+title: 腾讯视频 11.85.2066.0 Windows去广告绿色版
 date: 2021-09-26 09:49:38
 categories: [实用资源, Windows, 影音视听]
 tags: [中文, 实用资源, Windows, 腾讯视频]
 urlname: qqlivepc
 cover: /img/腾讯视频PC/1.png
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, 腾讯视频]
-updated: 2023-11-17 04:00:00
+updated: 2023-12-28 03:00:00
 ---
 
 # 简介
@@ -22,4 +22,4 @@ updated: 2023-11-17 04:00:00
 
 # 下载
 
-{% btn '/download/index.html?f=腾讯视频-v11.82.7023.0.zip',下载 %}
+{% btn '/download/index.html?f=腾讯视频-v11.85.2066.0.zip',下载 %}
