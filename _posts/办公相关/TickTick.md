@@ -1,5 +1,5 @@
 ---
-title: TickTick(滴答清单国际版) 7.0.1.1 Windows学习版
+title: TickTick(滴答清单国际版) 5.0.3.1 Windows学习版
 tags: [中文, 实用资源, Windows, TickTick]
 cover: /img/TickTick/1.jpg
 date: 2022-09-01 10:11:33
@@ -19,4 +19,4 @@ keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Wind
 
 # 下载
 
-{% btn '/download/index.html?f=TickTick-Premium-v7.0.1.1-build-7011.apk',下载 %}
+{% btn '/download/index.html?f=TickTick-Premium-5.0.3.1.zip',下载 %}

@@ -1,12 +1,12 @@
 ---
-title: TablePlus 5.7.1 学习版
+title: TablePlus 5.8.0 学习版
 date: 2021-12-24 23:50:45
 categories: [实用资源, Windows, 编程开发]
 tags: [英文, 实用资源, Windows, TablePlus]
 urlname: tableplus
 cover: /img/TablePlus/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, TablePlus]
-updated: 2023-12-05 04:30:00
+updated: 2023-12-30 09:00:00
 ---
 
 # 简介
@@ -19,4 +19,4 @@ TablePlus 是一款简单方便的可视化数据库管理工具，能够帮助�
 
 # 下载
 
-{% btn '/download/index.html?f=TablePlus-5.7.1.zip',下载 %}
+{% btn '/download/index.html?f=TablePlus-5.8.0.zip',下载 %}

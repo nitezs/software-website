@@ -7,7 +7,7 @@ urlname: dsfss
 cover: /img/dbForge-Studio/1.jpg
 keywords:
     [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, dbForge Studio]
-updated: 2023-12-05 04:30:00
+updated: 2023-12-30 09:00:00
 ---
 
 # 简介
@@ -30,4 +30,5 @@ dbForge Studioor 是一个在 Windows 平台被广泛使用的数据库管理客
 | [dbForge Data Compare for MySQL Professional 10.0.60](/download/index.html?f=dbForge-Data-Compare-for-MySQL-Professional-10.0.60.zip)         | 2023-11-22 |
 | [dbForge Documenter for MySQL Professional 10.0.60](/download/index.html?f=dbForge-Documenter-for-MySQL-Professional-10.0.60.zip)             | 2023-11-22 |
 | [dbForge Studio for MySQL Enterprise 10.0.60](/download/index.html?f=dbForge-Studio-for-MySQL-Enterprise-10.0.60.zip)                         | 2023-11-22 |
+| [dbForge Studio for SQL Server Enterprise 6.5.140](/download/index.html?f=dbForge-Studio-for-SQL-Server-Enterprise-6.5.140.zip)               | 2023-12-30 |
 | [dbForge Data Compare for PostgreSQL Enterprise 4.1.789](/download/index.html?f=dbForge-Data-Compare-for-PostgreSQL-Enterprise-4.1.789.zip)   | 2023-12-05 |

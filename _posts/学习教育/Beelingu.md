@@ -1,12 +1,12 @@
 ---
-title: Beelingu 2.995 学习版
+title: Beelingu 2.996 学习版
 date: 2022-02-08 19:39:35
 categories: [实用资源, Android, 学习教育]
 tags: [中文, 实用资源, Android, Beelingu]
 urlname: beelingu
 cover: /img/Beelingu/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Android, Beelingu]
-updated: 2023-12-28 03:00:00
+updated: 2023-12-30 09:00:00
 ---
 
 # 简介
@@ -19,4 +19,4 @@ Beelinguapp 是一款易用的多功能在线语言学习软件，界面简单�
 
 # 下载
 
-{% btn '/download/index.html?f=Beelinguapp-v2.995-mixroot.apk',下载 %}
+{% btn '/download/index.html?f=Beelinguapp-v2.996-Mixroot.apk',下载 %}

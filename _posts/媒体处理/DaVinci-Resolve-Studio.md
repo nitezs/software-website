@@ -1,12 +1,12 @@
 ---
-title: Blackmagic Design DaVinci Resolve Studio 18.6.3.0019 学习版
+title: Blackmagic Design DaVinci Resolve Studio 18.6.4 学习版
 date: 2021-10-09 11:50:31
 categories: [实用资源, Windows, 媒体处理]
 tags: [中文, 实用资源, Windows, DaVinci]
 urlname: davinci
 cover: /img/DaVinci-Resolve-Studio/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, DaVinci]
-updated: 2023-11-15 07:00:00
+updated: 2023-12-30 09:00:00
 ---
 
 # 简介
@@ -19,4 +19,6 @@ updated: 2023-11-15 07:00:00
 
 # 下载
 
-{% btn '/download/index.html?f=Blackmagic-Design-DaVinci-Resolve-Studio-18.6.3.0019.zip','下载' %}
+{% btn '/download/index.html?f=Blackmagic-Design-DaVinci-Resolve-Studio-18.6.4.z01','分卷1' %}
+<br>
+{% btn '/download/index.html?f=Blackmagic-Design-DaVinci-Resolve-Studio-18.6.4.zip','分卷1' %}
