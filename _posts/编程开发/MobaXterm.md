@@ -1,12 +1,12 @@
 ---
-title: MobaXterm 23.5 (英文/中文便携) 学习版
+title: MobaXterm 23.6 (英文/中文便携) 学习版
 date: 2022-02-25 23:28:43
 categories: [实用资源, Windows, 编程开发]
 tags: [英文, 实用资源, Windows, MobaXterm]
 urlname: mobaxterm
 cover: /img/MobaXterm/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, MobaXterm]
-updated: 2023-12-05 04:30:00
+updated: 2024-01-02 10:00:00
 ---
 
 # 简介
@@ -26,6 +26,6 @@ MobaXterm，是一款增强型终端、X 服务器和 Unix 命令集（GNU/ Cygw
 
 # 下载
 
-{% btn '/download/index.html?f=MobaXterm-23.5.zip','23.5 英文' %}
+{% btn '/download/index.html?f=MobaXterm-23.6.zip','23.6 英文' %}
 <br>
 {% btn 'https://g.nite07.org/RipplePiam/MobaXterm-Chinese-Simplified/releases/latest','中文便携' %}

@@ -103,7 +103,8 @@ Adobe 公司是一家美国的计算机软件公司，主要开发和销售数�
 | [Adobe Lightroom CC 5.5](/download/index.html?f=Adobe-Photoshop-Lightroom_5.5.7z)                                      | 2022-08-18 |
 | [Adobe Lightroom Classic 13.1](/download/index.html?f=Adobe-Lightroom-Classic-v13.1.zip)                               | 2023-12-17 |
 | [Adobe Media Encoder 2024 24.1.1](/download/index.html?f=Adobe-Media-Encoder-2024-v24.1.1.zip)                         | 2023-12-28 |
-| [Adobe Photoshop 2024 25.3.1](/download/index.html?f=Adobe-Photoshop-2024-v25.3.1.z01)                                 | 2023-12-17 |
+| [Adobe Photoshop 2024 25.3.1 分卷 1](/download/index.html?f=Adobe-Photoshop-2024-v25.3.1.zip)                          | 2023-12-17 |
+| [Adobe Photoshop 2024 25.3.1 分卷 2](/download/index.html?f=Adobe-Photoshop-2024-v25.3.1.z01)                          | 2023-12-17 |
 | [Adobe Photoshop Elements 2024 24.0](/download/index.html?f=Adobe-Photoshop-Elements-2024-v24.0.iso)                   | 2023-10-12 |
 | [Adobe Prelude 2022 22.6.1](/download/index.html?f=Adobe-Prelude-2022-v22.6.1.zip)                                     | 2023-12-17 |
 | [Adobe Premiere Pro 2024 24.1](/download/index.html?f=Adobe-Premiere-Pro-2024-v24.1.zip)                               | 2023-12-17 |

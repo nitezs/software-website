@@ -1,9 +1,9 @@
 ---
-title: DevExpress Universal Complete 23.1.5 学习版
+title: DevExpress Universal Complete 23.2.3 学习版
 tags: [英文, 实用资源, Windows, 编程开发]
 cover: /img/DevExpress/1.jpg
 date: 2023-05-24 06:30:30
-updated: 2023-09-17 16:00:00
+updated: 2024-01-02 10:00:00
 categories: [实用资源, Windows, 编程开发]
 urlname: devexpress
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, 编程开发]
@@ -19,4 +19,4 @@ DevExpress Universal Subscription 是一个全球使用最多的.NET 用户界�
 
 # 下载
 
-{% btn '/download/index.html?f=DevExpress-Universal-Complete-23.1.5.zip',下载 %}
+{% btn '/download/index.html?f=DevExpress-Universal-Complete-23.2.3.zip',下载 %}

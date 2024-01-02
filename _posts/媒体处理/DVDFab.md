@@ -1,12 +1,12 @@
 ---
-title: DVDFab 12.1.1.5 学习版
+title: DVDFab 13.0.0.9 学习版
 date: 2022-01-17 10:46:30
 categories: [实用资源, Windows, 媒体处理]
 tags: [中文, 实用资源, Windows, DVDFab]
 urlname: dvdfab
 cover: /img/DVDFab/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, DVDFab]
-updated: 2023-09-11 12:00:00
+updated: 2024-01-02 10:00:00
 ---
 
 # 简介
@@ -26,4 +26,4 @@ DVDFab 可以进行蓝光拷贝的工作，可以无损压缩，并对蓝光光�
 
 # 下载
 
-{% btn '/download/index.html?f=DVDFab-12.1.1.5.zip',下载 %}
+{% btn '/download/index.html?f=DVDFab-13.0.0.9.zip',下载 %}

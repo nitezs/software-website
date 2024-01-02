@@ -1,5 +1,5 @@
 ---
-title: Potplayer 1.7.22032 便携版
+title: Potplayer 1.7.22076 便携版
 date: 2021-09-27 14:02:14
 categories:
     - [实用资源, Windows, 影音视听]
@@ -8,7 +8,7 @@ tags: [中文, 实用资源, Windows, Potplayer]
 urlname: potplayer
 cover: /img/Potplayer/1.png
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, Potplayer]
-updated: 2023-11-11 04:00:00
+updated: 2024-01-02 10:00:00
 ---
 
 # 简介
@@ -21,4 +21,4 @@ PotPlayer 是 KMPlayer 的原制作者姜龙喜先生（韩国）进入 Daum 公
 
 # 下载
 
-{% btn '/download/index.html?f=Potplayer-1.7.22032-Portable.zip',下载 %}
+{% btn '/download/index.html?f=Potplayer-1.7.22076-Portable.zip',下载 %}
